@@ -1,4 +1,4 @@
-Feature Selection (Modified)
+Feature Selection (Code Book)
 ============================
 
 #Background
@@ -27,26 +27,26 @@ The data was grouped by activity_type and subject_id and the means of these obse
 These signals were used to estimate variables of the feature vector for each pattern:  
 '_XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
-tBodyAcc_XYZ
-tGravityAcc_XYZ
-tBodyAccJerk_XYZ
-tBodyGyro_XYZ
-tBodyGyroJerk_XYZ
-tBodyAccMag
-tGravityAccMag
-tBodyAccJerkMag
-tBodyGyroMag
-tBodyGyroJerkMag
-fBodyAcc_XYZ
-fBodyAccJerk_XYZ
-fBodyGyro_XYZ
-fBodyAccMag
-fBodyAccJerkMag
-fBodyGyroMag
-fBodyGyroJerkMag
+* tBodyAcc_XYZ
+* tGravityAcc_XYZ
+* tBodyAccJerk_XYZ
+* tBodyGyro_XYZ
+* tBodyGyroJerk_XYZ
+* tBodyAccMag
+* tGravityAccMag
+* tBodyAccJerkMag
+* tBodyGyroMag
+* tBodyGyroJerkMag
+* fBodyAcc_XYZ
+* fBodyAccJerk_XYZ
+* fBodyGyro_XYZ
+* fBodyAccMag
+* fBodyAccJerkMag
+* fBodyGyroMag
+* fBodyGyroJerkMag
 
 The set of variables that were estimated from these signals and had their means taken are: 
 
-mean: Mean value
-std: Standard deviation
+* mean: Mean value
+* std: Standard deviation
 
