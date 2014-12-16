@@ -50,3 +50,4 @@ The set of variables that were estimated from these signals and had their means 
 * mean: Mean value
 * std: Standard deviation
 
+The means of the estimates are stored in the columns named named by feature_estimate(_direction) e.g. tBodyAcc_mean_X or fBodyAccMag_std.
